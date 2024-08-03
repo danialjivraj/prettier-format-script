@@ -1,5 +1,6 @@
 # prettier-format-script
-This script uses Prettier to format every file within a specified root folder, with the option to exclude specific files and folders from being formatted.
+This script uses Prettier to format every file within a specified root folder, with the option to exclude specific files and folders from being formatted. <br>
+When executed, the script provides feedback through the terminal, including information about which files are being formatted and any issues encountered during the process.
 
 ## Preview
 ![image](https://github.com/user-attachments/assets/16c93cd2-2da8-4553-a053-78145f1082e5)
